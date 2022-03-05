@@ -1,0 +1,11 @@
+***************** CHEAT CODES *****************
+1. WIN ==> Instant Win
+2. LOSS ==> Instant Lose
+3. MOARPOINTS ==> Gain 200 points
+4. INFPOINTS ==> Gain 999999999 points
+5. MAINMENU ==> Exits to Main Menu
+6. NIOR ==> Enables Grey Scale Mode
+7. MOONSIDE ==> Enable Inverse Mode
+8. MOONNIOR ==> Enable Inverse Grey Scale Mode
+9. WIRES ==> Enable wireframe mode
+10. NORMAL ==> Changes all filters back to normal mode
